@@ -1,5 +1,10 @@
 # Shahriyor-portfel
 My personal portfolio 
+<img width="1039" height="1026" alt="image" src="https://github.com/user-attachments/assets/77ce08e4-854e-4e0d-9905-98130acefd75" />
+<img width="2489" height="814" alt="image" src="https://github.com/user-attachments/assets/ac0feb4e-4d8f-4e90-8655-653fb2d338c4" />
+<img width="2478" height="1242" alt="image" src="https://github.com/user-attachments/assets/4b6bf5d0-e44d-4773-b418-3c3aa418adf4" />
+<img width="2455" height="961" alt="image" src="https://github.com/user-attachments/assets/82a1aeb7-6187-45ab-9b7c-6d9339f758c7" />
+
 import React, { useState, useEffect, useMemo, useRef } from 'react';
 import { 
   Shield, Lock, Unlock, Key, FileText, Upload, Trash2, 
