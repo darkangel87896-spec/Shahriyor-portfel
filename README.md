@@ -4,6 +4,60 @@ My personal portfolio
 <img width="2489" height="814" alt="image" src="https://github.com/user-attachments/assets/ac0feb4e-4d8f-4e90-8655-653fb2d338c4" />
 <img width="2478" height="1242" alt="image" src="https://github.com/user-attachments/assets/4b6bf5d0-e44d-4773-b418-3c3aa418adf4" />
 <img width="2455" height="961" alt="image" src="https://github.com/user-attachments/assets/82a1aeb7-6187-45ab-9b7c-6d9339f758c7" />
+#Bulutli saqlash — bu ma’lumotlarni internet orqali serverlarda saqlash texnologiyasi.
+Google Drive
+Dropbox
+OneDrive
+Afzalliklari:
+Istalgan joydan kirish
+Xotira tejaydi (kompyuterda joy band qilmaydi)
+Avtomatik backup
+🔐 2. Bulutli saqlash xavfsizligi
+6
+
+Bulutdagi ma’lumotlar himoyasi uchun ishlatiladigan asosiy usullar:
+
+1. Shifrlash (Encryption)
+Ma’lumotlar kodlanadi
+Faqat kalit orqali ochiladi
+Misol: AES encryption
+2. Autentifikatsiya
+Foydalanuvchini tekshirish
+Masalan: login + parol
+2 bosqichli himoya: Two-factor authentication
+3. Ruxsat nazorati (Access Control)
+Kim qanday faylni ko‘ra olishini boshqaradi
+Admin, user, guest kabi rollar
+🛡️ 3. Ma’lumotlar daxlsizligi (Data Integrity)
+6
+
+Ma’lumotlar daxlsizligi — ma’lumotlar o‘zgarmagan va to‘g‘ri saqlanganini kafolatlash.
+
+Asosiy texnologiyalar:
+1. Hash funksiyalar
+Faylga maxsus kod beriladi
+O‘zgarsa — kod ham o‘zgaradi
+Misol: MD5
+2. Checksum
+Ma’lumot tekshirish usuli
+Yuklab olingan fayl buzilmaganini aniqlaydi
+3. Blockchain texnologiyasi
+Ma’lumotni o‘zgartirib bo‘lmaydi
+Har bir blok bog‘langan
+⚙️ 4. Bulutli xavfsizlik muammolari
+Ma’lumotlar o‘g‘irlanishi (hacking)
+Parol buzilishi
+Server hujumi (DDoS)
+Ichki xodimlar xatolari
+✅ 5. Himoya qilish usullari
+Kuchli parol qo‘llash
+2FA yoqish
+Ma’lumotlarni shifrlash
+VPN ishlatish
+Doimiy backup qilish
+#📌 6. Xulosa (Loyiha uchun tayyor matn)
+
+#Bulutli saqlash zamonaviy IT tizimlarning asosiy qismi hisoblanadi. U ma’lumotlarni saqlash, ularga tez kirish va xavfsiz boshqarish imkonini beradi. Biroq, xavfsizlik muammolari sababli shifrlash, autentifikatsiya va ma’lumotlar daxlsizligini ta’minlovchi texnologiyalar muhim rol o‘ynaydi. Zamonaviy tizimlarda hash funksiyalar, blockchain va ko‘p bosqichli autentifikatsiya keng qo‘llaniladi.
 
 import React, { useState, useEffect, useMemo, useRef } from 'react';
 import { 
